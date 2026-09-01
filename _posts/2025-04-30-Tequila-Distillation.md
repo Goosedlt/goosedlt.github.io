@@ -11,3 +11,6 @@ Beyond process design, the project prioritized sustainability. It incorporated w
 
 - Sustainable Systems Design: Championed environmental feasibility by integrating waste management strategies for raw materials and energy recovery systems, ensuring the plant design was both economically and ecologically viable for long-term artisanal or industrial use.
 Equipment Specification: Determined operating conditions, material selections (e.g., carbon steel for tray columns, stainless steel for reflux drums), and capacities for over 14 distinct pieces of major plant equipment.  
+
+![Tequila Distillation/Fabrication/Manufacturing](assets/img/Tequila_Poster.jpg)
+_Tequila Distillery Poster
