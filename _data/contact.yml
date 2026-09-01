@@ -12,7 +12,7 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'linkedin.com/in/gdltg' 
+  url:  'https://linkedin.com/in/gdltg' 
 
 - type: instagram
   icon: 'fa-brands fa-instagram'
