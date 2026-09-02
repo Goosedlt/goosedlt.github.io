@@ -35,5 +35,5 @@ Equipment Specification: Determined operating conditions, material selections (e
 ## Engineering Highlights
 > By tuning reflux ratios and reboiler duties inside AVEVA Pro/II, the final design maintained optimal separation purity while minimizing thermal utility demands.
 
-![Tequila Fabrication Poster](assets/img/Tequila_Poster.jpg)
+![Tequila Fabrication Poster](assets/img/Tequila-Poster.jpg)
 Tequila Distillery Poster
