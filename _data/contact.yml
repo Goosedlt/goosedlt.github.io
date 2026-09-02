@@ -18,9 +18,17 @@
   icon: 'fa-brands fa-instagram'
   url: 'https://instagram.com/goosedlt/'
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: letterboxd
+  icon: 'fab fa-letterboxd'
+  url: 'https://letterboxd.com/Goosedlt/'
+
+- type: discogs
+  icon: 'fab fa-discogs'
+  url: 'https://www.discogs.com/user/goosedlt'
+
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
