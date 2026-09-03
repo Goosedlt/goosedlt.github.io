@@ -1,0 +1,34 @@
+---
+---
+
+/* Dark Pink Theme Overrides */
+$dark-pink: #d81b60;       /* Base accent pink */
+$dark-pink-hover: #ad1457; /* Deeper hover tone */
+
+/* Dark mode variable overrides */
+html[data-mode='dark'] {
+  --link-color: #{$dark-pink};
+  --link-underline-color: #{$dark-pink};
+  --main-border-color: #{$dark-pink};
+  --btn-primary-bg: #{$dark-pink};
+  --btn-primary-border-color: #{$dark-pink};
+  --toc-highlight: #{$dark-pink};
+  --sidebar-active-color: #{$dark-pink};
+}
+
+/* Light mode variable overrides */
+html[data-mode='light'] {
+  --link-color: #{$dark-pink-hover};
+  --link-underline-color: #{$dark-pink-hover};
+  --main-border-color: #{$dark-pink-hover};
+  --btn-primary-bg: #{$dark-pink-hover};
+  --toc-highlight: #{$dark-pink-hover};
+  --sidebar-active-color: #{$dark-pink-hover};
+}
+
+/* Hover accent states */
+a:hover {
+  color: $dark-pink-hover !important;
+}
+
+@import 'jekyll-theme-chirpy';
