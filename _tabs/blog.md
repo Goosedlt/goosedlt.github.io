@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-icon: fas fa-flask
+title: Blog
+icon: fas fa-camera
 order: 2
 ---
 
