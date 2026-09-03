@@ -1,6 +1,12 @@
 ---
 ---
 
+/* Import Inter from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Set primary font variable */
+$font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
 /* Dark Pink Theme Overrides */
 $dark-pink: #d81b60;       /* Base accent pink */
 $dark-pink-hover: #ad1457; /* Deeper hover tone */
@@ -24,6 +30,11 @@ html[data-mode='light'] {
   --btn-primary-bg: #{$dark-pink-hover};
   --toc-highlight: #{$dark-pink-hover};
   --sidebar-active-color: #{$dark-pink-hover};
+}
+
+/* Apply Inter globally across body and headings */
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-base !important;
 }
 
 /* Hover accent states */
