@@ -2,13 +2,12 @@
 ---
 
 @import 'jekyll-theme-chirpy';
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-/* Dark Pink Palette */
+/* Dark Pink Accents */
 $dark-pink: #d81b60;
 $dark-pink-hover: #ad1457;
 
-/* Dark Mode Variables */
+/* Dark Mode Overrides */
 html[data-mode='dark'] {
   --link-color: #{$dark-pink};
   --link-underline-color: #{$dark-pink};
@@ -19,7 +18,7 @@ html[data-mode='dark'] {
   --sidebar-active-color: #{$dark-pink};
 }
 
-/* Light Mode Variables */
+/* Light Mode Overrides */
 html[data-mode='light'] {
   --link-color: #{$dark-pink-hover};
   --link-underline-color: #{$dark-pink-hover};
@@ -36,5 +35,5 @@ body, h1, h2, h3, h4, h5, h6 {
 
 /* Link Hover */
 a:hover {
-  color: $dark-pink-hover !important;
+  color: #ad1457 !important;
 }
