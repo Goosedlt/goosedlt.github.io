@@ -18,6 +18,10 @@
   icon: 'fa-brands fa-instagram'
   url: 'https://instagram.com/goosedlt/'
 
+- type: apple-music
+  icon: 'fab fa-itunes-note'
+  url: 'https://music.apple.com/profile/goosedlt'
+
 - type: letterboxd
   icon: 'fab fa-letterboxd'
   url: 'https://letterboxd.com/Goosedlt/'
