@@ -1,6 +1,7 @@
 ---
 title: Tequila Plant Process Simulation & Design
 date: 2025-04-30
+categories: engineering-projects, simulation
 toc: true
 ---
 
