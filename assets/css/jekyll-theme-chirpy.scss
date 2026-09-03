@@ -1,17 +1,14 @@
 ---
 ---
 
-/* Import Inter from Google Fonts */
+@import 'jekyll-theme-chirpy';
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-/* Set primary font variable */
-$font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+/* Dark Pink Palette */
+$dark-pink: #d81b60;
+$dark-pink-hover: #ad1457;
 
-/* Dark Pink Theme Overrides */
-$dark-pink: #d81b60;       /* Base accent pink */
-$dark-pink-hover: #ad1457; /* Deeper hover tone */
-
-/* Dark mode variable overrides */
+/* Dark Mode Variables */
 html[data-mode='dark'] {
   --link-color: #{$dark-pink};
   --link-underline-color: #{$dark-pink};
@@ -22,7 +19,7 @@ html[data-mode='dark'] {
   --sidebar-active-color: #{$dark-pink};
 }
 
-/* Light mode variable overrides */
+/* Light Mode Variables */
 html[data-mode='light'] {
   --link-color: #{$dark-pink-hover};
   --link-underline-color: #{$dark-pink-hover};
@@ -32,14 +29,12 @@ html[data-mode='light'] {
   --sidebar-active-color: #{$dark-pink-hover};
 }
 
-/* Apply Inter globally across body and headings */
+/* Typography Overrides */
 body, h1, h2, h3, h4, h5, h6 {
-  font-family: $font-family-base !important;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
 }
 
-/* Hover accent states */
+/* Link Hover */
 a:hover {
   color: $dark-pink-hover !important;
 }
-
-@import 'jekyll-theme-chirpy';
