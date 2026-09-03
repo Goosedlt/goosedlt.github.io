@@ -18,3 +18,10 @@ Thermoelectric generation powered by acid-base exothermic reactions and dry ice 
 
 ### [Tequila Plant Process Simulation & Design](/posts/Tequila-Distillation/)
 Rigorous simulation of distillation trains, equilibrium stages, and heat integration modeled in AVEVA Pro/II.
+
+---
+
+### [Anaerobic Digester for Parks](posts/Eco-Canine-Power/)
+A sustainable, solar-powered waste station that uses anaerobic digestion to convert public dog waste into renewable energy.
+
+---
