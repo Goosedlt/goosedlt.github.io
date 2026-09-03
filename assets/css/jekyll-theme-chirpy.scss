@@ -1,7 +1,13 @@
 ---
 ---
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
 
-@import 'jekyll-theme-chirpy';
+/* prettier-ignore */
+@use 'main{%- if jekyll.environment == 'production' -%}.bundle{%- endif -%}';
+
+/* --- Custom Styles Below --- */
 
 /* Dark Pink Accents */
 $dark-pink: #d81b60;
