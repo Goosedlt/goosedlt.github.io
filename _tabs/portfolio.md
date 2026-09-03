@@ -21,7 +21,7 @@ Rigorous simulation of distillation trains, equilibrium stages, and heat integra
 
 ---
 
-### [Anaerobic Digester for Parks](posts/Eco-Canine-Power/)
+### [Sustainable Anaerobic Digester for Parks](posts/Eco-Canine-Power/)
 A sustainable, solar-powered waste station that uses anaerobic digestion to convert public dog waste into renewable energy.
 
 ---
