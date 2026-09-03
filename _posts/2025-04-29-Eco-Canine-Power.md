@@ -1,6 +1,6 @@
 ---
 title: Eco-Canine Power – Turning Waste into Watts
-date: 2026-09-03 12:00:00 -0700
+date: 2025-04-29
 ---
 
 ## The Problem: Dog Waste Overload
@@ -18,7 +18,7 @@ The system features several core design components:
 *   **Usable Output:** The generated power runs integrated features, such as LED path lights[cite: 1].
 *   **Durable Design:** Constructed to be weather-resistant for reliable public use[cite: 1].
 
-![Eco-Canine Cutaway](/assets/img/eco-canine-cutaway.jpg)
+![Eco-Canine Cutaway](/assets/img/eco-canine-cutaway.jpeg)
 
 ## Target Market & Competition
 We designed this system specifically for municipalities, parks, recreational areas, Homeowners Associations (HOAs), and pet-friendly campuses[cite: 1]. 
