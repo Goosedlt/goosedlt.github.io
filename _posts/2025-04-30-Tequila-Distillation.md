@@ -1,8 +1,6 @@
 ---
 title: Tequila Plant Process Simulation & Design
 date: 2025-04-30
-categories: [Process Engineering, Simulation]
-tags: [Aveva-Pro-II, Mass-Balance, Thermodynamics]
 toc: true
 ---
 
