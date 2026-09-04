@@ -5,6 +5,15 @@ icon: fas fa-flask
 order: 1
 ---
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <p><em>Looking for my work history, education, and qualifications?</em></p>
+  <a href="/resume/" class="btn btn-primary">
+    <i class="fas fa-file-alt"></i> View My Resume & Cover Letter
+  </a>
+</div>
+
+<hr>
+
 # Engineering Portfolio
 
 Welcome to my featured project showcase. Below are select design, simulation, and hardware projects:
