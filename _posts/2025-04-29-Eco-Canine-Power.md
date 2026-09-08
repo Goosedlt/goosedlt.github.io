@@ -2,6 +2,7 @@
 title: Eco-Canine Power – Turning Waste into Watts
 date: 2025-04-29
 portfolio: true
+hidden: true
 toc: true
 description: A sustainable, solar-powered waste station that uses anaerobic digestion to convert public dog waste into renewable energy.
 ---
