@@ -2,6 +2,7 @@
 title: Tequila Plant Process Simulation & Design
 date: 2025-04-30
 portfolio: true
+hidden: true
 toc: true
 description: A comprehensive AVEVA Pro/II simulation detailing the process flow and material balances for a tequila production facility.
 ---
