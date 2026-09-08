@@ -1,6 +1,8 @@
 ---
 title: Eco-Canine Power – Turning Waste into Watts
 date: 2025-04-29
+portfolio: true
+description: 
 ---
 
 ## The Problem: Dog Waste Overload
